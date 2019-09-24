@@ -1,0 +1,3 @@
+nflgame==1.2.20
+twython==3.7.0
+
